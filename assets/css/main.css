@@ -1,5 +1,5 @@
-@import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
+@import url("https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.4/css/all.min.css");
+@import url("https://fonts.font.im/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
 /*
 	Dimension by HTML5 UP
@@ -97,7 +97,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #1b1f22;
+		background: #FEFEFF;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -1160,7 +1160,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/bg.jpg");
+			background-image: url("https://pic.imgdb.cn/item/668ea9acd9c307b7e90d8107.jpg");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
